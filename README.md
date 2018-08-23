@@ -14,4 +14,4 @@ Conforme diagrama de componentes
 ## CÓDIGOS
 Existem 2 códigos distintos:
 - arduino_control_servo.py
-- 
+- servo_control_rasp.ino
