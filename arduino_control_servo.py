@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Aug  5 12:39:44 2018
-
-@author: dti
-"""
 
 #import RPi.GPIO as gpio
 import time
