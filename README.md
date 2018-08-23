@@ -3,15 +3,15 @@ Utilização de um servo motor no Arduíno, controlado pelo Raspberry Pi  para a
 A idéia é a utilização desse acionador para resetar equipamentos remotamente sem a necessidade de modifica-los.
 
 ## MATERIAL NECESSÁRIO
-1 - Raspberry Py 3 Model B
-1 - Arduino
-1 - Servo Motor
-3 - Fios macho-macho
+- 1 - Raspberry Py 3 Model B
+- 1 - Arduino
+- 1 - Servo Motor
+- 3 - Fios macho-macho
 
 ## MONTAGEM
-Conforme diagrama de componentes
+Conforme diagrama de componentes (a ser inserido)
 
 ## CÓDIGOS
 Existem 2 códigos distintos:
 - arduino_control_servo.py
-- servo_control_rasp.ino
+- servo_control_rasp.ino com a biblioteca VarSpeedServo.zip
