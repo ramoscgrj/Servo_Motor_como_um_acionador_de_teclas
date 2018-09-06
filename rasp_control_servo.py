@@ -4,13 +4,7 @@ import time
 import serial
 
 arduino=serial.Serial('/dev/ttyACM0',9600) #comtem erro de atributo no windows
-'''
-for i in range(3):
-    arduino.write(b'0')
-    time.sleep(3)
-    arduino.write(b'1')
-    time.sleep(3)
-'''
+
 try:
     request=1
     time.sleep(1)
