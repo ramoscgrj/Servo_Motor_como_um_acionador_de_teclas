@@ -11,7 +11,13 @@ A idéia é a utilização desse acionador para resetar equipamentos remotamente
 ## MONTAGEM
 Conforme diagrama de componentes (a ser inserido)
 
+## INSTALAÇÃO DO RASPBIAN
+a ser inserido
+
+## INSTALAÇÃO DO ARDUINO
+a ser inserido
+
 ## CÓDIGOS
 Existem 2 códigos distintos:
-- arduino_control_servo.py
-- servo_control_rasp.ino com a biblioteca VarSpeedServo.zip
+- rasp_control_servo.py
+- arduino_control_servo.ino com a biblioteca VarSpeedServo.zip
